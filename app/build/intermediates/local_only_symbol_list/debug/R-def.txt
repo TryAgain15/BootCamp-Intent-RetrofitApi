@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable flutter_android
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable kotlin_android
+id card_news
+id img_news
+id rv_news
+id tv_deskripsi
+id tv_judul
+id tv_penulis
+id tv_tanggal_posting
+layout activity_detail_news
+layout activity_main
+layout item_row_news
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.Tugas3BootcampIdn
+xml backup_rules
+xml data_extraction_rules

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.bootcamp.tugas3_bootcampidn.app-mergeDebugResources-28:/layout/item_row_news.xml",
+        "source": "com.bootcamp.tugas3_bootcampidn.app-main-31:/layout/item_row_news.xml"
+    },
+    {
+        "merged": "com.bootcamp.tugas3_bootcampidn.app-mergeDebugResources-28:/layout/activity_detail_news.xml",
+        "source": "com.bootcamp.tugas3_bootcampidn.app-main-31:/layout/activity_detail_news.xml"
+    },
+    {
+        "merged": "com.bootcamp.tugas3_bootcampidn.app-mergeDebugResources-28:/layout/activity_main.xml",
+        "source": "com.bootcamp.tugas3_bootcampidn.app-main-31:/layout/activity_main.xml"
+    }
+]
